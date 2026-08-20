@@ -80,3 +80,13 @@ ffi.C.tzset()
 ## License
 
 Licensed under the **GNU Affero General Public License v3.0** (AGPL-3.0), matching KOReader, on which this patch depends. See [`LICENSE`](LICENSE) for the full text.
+
+### support
+
+if any of this is useful to you and you'd like to chip in:
+
+```
+bc1qkge6zr45tzqfwfmvma2ylumt6mg7wlwmhr05yv
+```
+
+https://liberapay.com/bdkl/
