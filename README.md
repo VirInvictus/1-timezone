@@ -1,5 +1,7 @@
 # 1-timezone
 
+> **Status: complete and stable.** Bug reports welcome; feature development is closed.
+
 A tiny [KOReader](https://koreader.rocks) user patch that forces a correct timezone inside the KOReader process. It fixes a wrong footer clock, a "Synchronize time" that never seems to help, and AutoWarmth picking up a nonsense timezone, on devices that run KOReader **without the vendor reader framework**.
 
 Ships with a default of Eastern Time (`America/Toronto`). One line changes it to your zone.
